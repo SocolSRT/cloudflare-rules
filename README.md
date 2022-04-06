@@ -24,7 +24,8 @@
 > Blocking queries with XSS vulnerabilities
 > 
 > Block popular PHP vulnerabilities
-...
+> 
+> ...
 
 # Threat Check - Action Challenge
 > Checking for outdated versions HTTP (1.1, 1.2)
