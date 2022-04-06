@@ -1,7 +1,7 @@
 # Cloudflare Rules
 [AntiDDoS] My Rules of Cloudflare Firewall for Block Bad Bot and Exploiting
 
-# Block Bad Bot - Action Block
+# Bad Bot - Action Block
 > * Blocks popular bad User Agent
 > 
 > * Blocks connections by port (usually only bots do this)
@@ -18,7 +18,7 @@
 > 
 > * Blocks ASN list of most known proxy scraping sites
 
-# Block Exploiting (Beta) - Action Block
+# Exploiting (Beta) - Action Block
 > * Blocking queries with SQL vulnerabilities
 > 
 > * Blocking queries with XSS vulnerabilities
