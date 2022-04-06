@@ -39,5 +39,5 @@ Free Firewall for servers:
 Learn more and download here -> https://safeness.su/firewall/
 
 # Would you like to support me financially?
-My Bitcoin wallet - *14AA4FAdUYnTVTx5pSQjq2h8UJoA8Na89R*
-My Litecoin wallet - *MSevKqUirTvQTkGxYechhNmBgAtDiZJq2x*
+* My Bitcoin wallet - *14AA4FAdUYnTVTx5pSQjq2h8UJoA8Na89R*
+* My Litecoin wallet - *MSevKqUirTvQTkGxYechhNmBgAtDiZJq2x*
