@@ -28,17 +28,17 @@
 > ...
 
 # Threat Check - Action Challenge
-> Checking for outdated versions HTTP (1.1, 1.2)
+> * Checking for outdated versions HTTP (1.1, 1.2)
 > 
-> Checking countries that allow a lot of malicious traffic
+> * Checking countries that allow a lot of malicious traffic
 > 
-> Checking Bad Threats Flagged By Cloudflare
+> * Checking Bad Threats Flagged By Cloudflare
 > 
-> Checking for insecure requests (Not SSL requests)
+> * Checking for insecure requests (Not SSL requests)
 > 
-> Checking requests of unknown origin (Not have referer)
+> * Checking requests of unknown origin (Not have referer)
 
-
-# How to use? - Copy the expression and paste it into your expression builder:
+# How to use?
+> Copy the expression and paste it into your expression builder
 ![image](https://user-images.githubusercontent.com/55624740/161973398-05e74f0c-f72c-4c71-afa4-46987801f3c8.png)
 
