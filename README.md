@@ -3,7 +3,6 @@
 
 # Bad Bot - Action Block
 > * Blocks popular bad User Agent
-> 
 > * Blocks connections by port (usually only bots do this)
 > 
 > * Blocks outdated versions HTTP (1.0)
