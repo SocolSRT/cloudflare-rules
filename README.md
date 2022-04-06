@@ -1,7 +1,8 @@
 # Cloudflare Rules
 My Rules of Cloudflare Firewall for Block Bad Bot and Exploiting
 
-# Bad Bot - Action Block
+# Bad Bot - Action Block 
+For more information, see the [contributor guide index](https://github.com/SocolSRT/cloudflare-rules/blob/main/Bad%20Bot%20-%20Block.txt)
 > * Blocks popular bad User Agent
 > * Blocks connections by port (usually only bots do this)
 > * Blocks outdated versions HTTP (1.0)
