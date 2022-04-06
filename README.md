@@ -39,7 +39,6 @@
 > * Checking requests of unknown origin (Not have referer)
 
 # How to use?
-*Copy the expression and paste it into your expression builder
-
+*Copy the expression and paste it into your expression builder*
 ![image](https://user-images.githubusercontent.com/55624740/161973398-05e74f0c-f72c-4c71-afa4-46987801f3c8.png)
 
