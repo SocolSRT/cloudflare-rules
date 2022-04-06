@@ -1,29 +1,29 @@
-# cloudflare-rules
+# Cloudflare Rules
 [AntiDDoS] My Rules of Cloudflare Firewall for Block Bad Bot and Exploiting
 
 # Block Bad Bot - Action Block
-> Blocks popular bad User Agent
+> * Blocks popular bad User Agent
 > 
-> Blocks connections by port (usually only bots do this)
+> * Blocks connections by port (usually only bots do this)
 > 
-> Blocks outdated versions HTTP (1.0)
+> * Blocks outdated versions HTTP (1.0)
 > 
-> Blocks Bad Threats Flagged By Cloudflare
+> * Blocks Bad Threats Flagged By Cloudflare
 > 
-> Blocks bad method requests
+> * Blocks bad method requests
 > 
-> Blocks suspicious X-Forwarded-For
+> * Blocks suspicious X-Forwarded-For
 > 
-> Blocks requests from the Tor network
+> * Blocks requests from the Tor network
 > 
-> Blocks ASN list of most known proxy scraping sites
+> * Blocks ASN list of most known proxy scraping sites
 
 # Block Exploiting (Beta) - Action Block
-> Blocking queries with SQL vulnerabilities
+> * Blocking queries with SQL vulnerabilities
 > 
-> Blocking queries with XSS vulnerabilities
+> * Blocking queries with XSS vulnerabilities
 > 
-> Block popular PHP vulnerabilities
+> * Block popular PHP vulnerabilities
 > 
 > ...
 
@@ -39,6 +39,7 @@
 > * Checking requests of unknown origin (Not have referer)
 
 # How to use?
-> Copy the expression and paste it into your expression builder
+*Copy the expression and paste it into your expression builder
+
 ![image](https://user-images.githubusercontent.com/55624740/161973398-05e74f0c-f72c-4c71-afa4-46987801f3c8.png)
 
