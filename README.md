@@ -20,13 +20,19 @@
 
 # Block Exploiting (Beta) - Action Block
 > Blocking queries with SQL vulnerabilities
+> 
 > Blocking queries with XSS vulnerabilities
+> 
 > Block popular PHP vulnerabilities
 ...
 
 # Threat Check - Action Challenge
 > Checking for outdated versions HTTP (1.1, 1.2)
+> 
 > Checking countries that allow a lot of malicious traffic
+> 
 > Checking Bad Threats Flagged By Cloudflare
+> 
 > Checking for insecure requests (Not SSL requests)
+> 
 > Checking requests of unknown origin (Not have referer)
