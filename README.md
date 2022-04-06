@@ -5,7 +5,7 @@ My Rules of Cloudflare Firewall for Block Bad Bot and Exploiting
 > * Blocks popular bad User Agent
 > * Blocks connections by port (usually only bots do this)
 > * Blocks outdated versions HTTP (1.0)
-> * Blocks Bad Threats Flagged By Cloudflare
+> * Blocks bad threats flagged by cloudflare
 > * Blocks bad method requests
 > * Blocks suspicious X-Forwarded-For
 > * Blocks requests from the Tor network
@@ -21,7 +21,7 @@ My Rules of Cloudflare Firewall for Block Bad Bot and Exploiting
 # Threat Check - Action Challenge
 > * Checking for outdated versions HTTP (1.1, 1.2)
 > * Checking countries that allow a lot of malicious traffic
-> * Checking Bad Threats Flagged By Cloudflare
+> * Checking bad threats flagged by cloudflare
 > * Checking for insecure requests (Not SSL requests)
 > * Checking requests of unknown origin (Not have referer)
 
