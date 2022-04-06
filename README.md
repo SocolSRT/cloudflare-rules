@@ -10,6 +10,7 @@ My Rules of Cloudflare Firewall for Block Bad Bot and Exploiting
 > * Blocks suspicious X-Forwarded-For
 > * Blocks requests from the Tor network
 > * Blocks ASN list of most known proxy scraping sites
+> * Blockы non-standard cookies
 
 # 2. Exploiting (Beta) - Action Block [(open)](https://github.com/SocolSRT/cloudflare-rules/blob/main/Exploiting%20Check%20-%20Block.txt)
 > * Blocking queries with SQL vulnerabilities
