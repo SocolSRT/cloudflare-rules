@@ -29,3 +29,8 @@ My Rules of Cloudflare Firewall for Block Bad Bot and Exploiting
 *Copy the expression and paste it into your expression builder*
 ![image](https://user-images.githubusercontent.com/55624740/161973398-05e74f0c-f72c-4c71-afa4-46987801f3c8.png)
 
+# Not enough Cloudflare?
+Free WAF for websites:
+https://safeness.su/web-firewall/
+Free Firewall for servers:
+https://safeness.su/firewall/
