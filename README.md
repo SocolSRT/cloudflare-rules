@@ -1,5 +1,5 @@
 # Cloudflare Rules
-[AntiDDoS] My Rules of Cloudflare Firewall for Block Bad Bot and Exploiting
+My Rules of Cloudflare Firewall for Block Bad Bot and Exploiting
 
 # Bad Bot - Action Block
 > * Blocks popular bad User Agent
