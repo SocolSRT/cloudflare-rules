@@ -3,12 +3,19 @@
 
 # Block Bad Bot - Action Block
 > Blocks popular bad User Agent
+> 
 > Blocks connections by port (usually only bots do this)
+> 
 > Blocks outdated versions HTTP (1.0)
+> 
 > Blocks Bad Threats Flagged By Cloudflare
+> 
 > Blocks bad method requests
+> 
 > Blocks suspicious X-Forwarded-For
+> 
 > Blocks requests from the Tor network
+> 
 > Blocks ASN list of most known proxy scraping sites
 
 # Block Exploiting (Beta) - Action Block
