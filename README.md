@@ -1,8 +1,7 @@
 # Cloudflare Rules
 My Rules of Cloudflare Firewall for Block Bad Bot and Exploiting
 
-# Bad Bot - Action Block 
-For more information, see the [contributor guide index](https://github.com/SocolSRT/cloudflare-rules/blob/main/Bad%20Bot%20-%20Block.txt)
+# 1. Bad Bot - Action Block [click](https://github.com/SocolSRT/cloudflare-rules/blob/main/Bad%20Bot%20-%20Block.txt)
 > * Blocks popular bad User Agent
 > * Blocks connections by port (usually only bots do this)
 > * Blocks outdated versions HTTP (1.0)
@@ -12,14 +11,14 @@ For more information, see the [contributor guide index](https://github.com/Socol
 > * Blocks requests from the Tor network
 > * Blocks ASN list of most known proxy scraping sites
 
-# Exploiting (Beta) - Action Block
+# 2. Exploiting (Beta) - Action Block [click](https://github.com/SocolSRT/cloudflare-rules/blob/main/Exploiting%20Check%20-%20Block.txt)
 > * Blocking queries with SQL vulnerabilities
 > * Blocking queries with XSS vulnerabilities
 > * Block popular PHP vulnerabilities
 > 
 > ...
 
-# Threat Check - Action Challenge
+# 3. Threat Check - Action Challenge [click](https://github.com/SocolSRT/cloudflare-rules/blob/main/Threat%20Check%20-%20Challenge.txt)
 > * Checking for outdated versions HTTP (1.1, 1.2)
 > * Checking countries that allow a lot of malicious traffic
 > * Checking bad threats flagged by cloudflare
