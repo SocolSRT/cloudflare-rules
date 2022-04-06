@@ -15,6 +15,7 @@
 > * Blocking queries with SQL vulnerabilities
 > * Blocking queries with XSS vulnerabilities
 > * Block popular PHP vulnerabilities
+> 
 > ...
 
 # Threat Check - Action Challenge
