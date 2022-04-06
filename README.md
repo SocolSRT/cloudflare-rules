@@ -31,9 +31,9 @@ My Rules of Cloudflare Firewall for Block Bad Bot and Exploiting
 
 # Not enough Cloudflare?
 * Free WAF for websites
-[Learn more and download here](https://safeness.su/web-firewall/)
+[[Learn more and download here]](https://safeness.su/web-firewall/)
 * Free Firewall for servers
-[Learn more and download here](https://safeness.su/firewall/)
+[[Learn more and download here]](https://safeness.su/firewall/)
 
 # Would you like to support me financially?
 * My Bitcoin wallet - *14AA4FAdUYnTVTx5pSQjq2h8UJoA8Na89R*
