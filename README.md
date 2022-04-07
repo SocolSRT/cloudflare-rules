@@ -1,5 +1,5 @@
 # Cloudflare Rules
-My Rules of Cloudflare Firewall for Block Bad Bot and Exploiting
+Rules of Cloudflare Firewall for Block Bad Bot and Exploiting. Made by [Safeness](https://safeness.su)
 
 # 1. Bad Bot - Action Block [(open)](https://github.com/SocolSRT/cloudflare-rules/blob/main/Bad%20Bot%20-%20Block.txt)
 > * Blocks popular bad User Agent
