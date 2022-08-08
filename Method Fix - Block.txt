@@ -1,0 +1,1 @@
+(http.user_agent eq "109e15941c57") or (http.user_agent eq "d1b2df322c91") or (http.request.uri.query eq "--+") or (http.user_agent eq "84bd2cfee733") or (http.request.uri.query eq "d=1") or (http.user_agent eq "Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)") or (http.request.uri.query eq "daksldlkdsadas=1")
