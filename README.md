@@ -21,7 +21,7 @@ Rules of Cloudflare Firewall for Block Bad Bot and Exploiting. Made by [Safeness
 > 
 > ...
 
-# 3. Method Fix (In Developing) - Action Block [(open)](https://github.com/SocolSRT/cloudflare-rules/blob/main/Method%20Fix%20-%20Block.txt)
+# 3. Method Fix (Optional) - Action Block [(open)](https://github.com/SocolSRT/cloudflare-rules/blob/main/Method%20Fix%20-%20Block.txt)
 > * Blocks unusual attack methods that we have detected
 
 # 4. Threat Check (Optional) - Action Challenge [(open)](https://github.com/SocolSRT/cloudflare-rules/blob/main/Threat%20Check%20-%20Challenge.txt)
