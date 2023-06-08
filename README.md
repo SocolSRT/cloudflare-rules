@@ -14,7 +14,7 @@ Rules of Cloudflare Firewall for Block Bad Bot and Exploiting. Made by [Safeness
 > * Blocks ASN list of most known proxy scraping sites
 > * Blocks non-standard cookies
 
-# 2. Exploiting Fix (Beta) - Action Block [(open)](https://github.com/SocolSRT/cloudflare-rules/blob/main/Exploiting%20Check%20-%20Block.txt)
+# 2. Exploiting Fix (Beta) - Action Block [(open)](https://github.com/SocolSRT/cloudflare-rules/blob/main/Exploiting%20Fix%20-%20Block.txt)
 > * Blocking queries with SQL vulnerabilities
 > * Blocking queries with XSS vulnerabilities
 > * Block popular PHP vulnerabilities
