@@ -40,5 +40,5 @@ Rules of Cloudflare Firewall for Block Bad Bot and Exploiting. Made by [Safeness
 [https://safeness.su/firewall.html](https://safeness.su/firewall.html)
 
 # Would you like to support me financially?
-* My Bitcoin wallet - *14AA4FAdUYnTVTx5pSQjq2h8UJoA8Na89R*
-* My Litecoin wallet - *MSevKqUirTvQTkGxYechhNmBgAtDiZJq2x*
+* My Bitcoin wallet - *bc1qhn4n70f5f0m00pz8clanwjj30fl9j0j74jxh3u*
+* My USDT (TRC20) wallet - *TUhvUrudtVXiAZ8jiD7TNF4kAMiFPpXahy*
