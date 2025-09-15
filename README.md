@@ -7,7 +7,6 @@ Rules of Cloudflare Firewall for Block Bad Bot and Exploiting. Made by [Safeness
 > * Blocks popular bad User Agent
 > * Blocks connections by port (usually only bots do this)
 > * Blocks outdated versions HTTP (1.0)
-> * Blocks bad threats flagged by cloudflare
 > * Blocks bad method requests
 > * Blocks suspicious X-Forwarded-For
 > * Blocks requests from the Tor network
