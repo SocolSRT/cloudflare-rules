@@ -26,8 +26,6 @@ Rules of Cloudflare Firewall for Block Bad Bot and Exploiting. Made by [Safeness
 
 # 4. Threat Check (Optional) - Action Challenge [(open)](https://github.com/SocolSRT/cloudflare-rules/blob/main/Threat%20Check%20-%20Challenge.txt)
 > * Checking for outdated versions HTTP (1.1, 1.2)
-> * Checking countries that allow a lot of malicious traffic
-> * Checking bad threats flagged by cloudflare
 > * Checking for insecure requests (Not SSL requests)
 > * Checking requests of unknown origin (Not have referer)
 
