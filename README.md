@@ -1,5 +1,5 @@
 # Cloudflare Rules
-Rules of Cloudflare Firewall for Block Bad Bot and Exploiting. Made by [Safeness](https://safeness.su)
+Rules of Cloudflare Firewall for Block Bad Bot and Exploiting. Made by [Safeness](https://guard.corertx.com/)
 
 * Important: *If you have any problems or questions, please contact Cloudflare support. These rules are general for review and it happens that they do not work stably on all sites, so you have to edit them yourself for your sites. They do not guarantee you complete protection, but only help to cope with common attacks.*
 
@@ -37,7 +37,7 @@ Rules of Cloudflare Firewall for Block Bad Bot and Exploiting. Made by [Safeness
 
 # Not enough Cloudflare?
 * Free Firewall for servers and WAF for websites:
-[https://safeness.su/en/firewall.html](https://safeness.su/en/firewall.html)
+[https://guard.corertx.com/en/firewall.html](https://guard.corertx.com/en/firewall.html)
 
 # Would you like to support me financially?
 * My Bitcoin wallet - *bc1qhn4n70f5f0m00pz8clanwjj30fl9j0j74jxh3u*
